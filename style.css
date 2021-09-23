@@ -1,0 +1,30 @@
+/**
+ * Theme Name: Joyous
+ * Theme URI: www.github.com
+ * Author: Shahadat Hossain
+ * Author URI: www.facebook.com/shahadat.hossain.palash
+ * Description: This is a ecommerce theme which is extremly elegent and easy to use.
+ * Tags: joyous, one-page, ecommerce, jewelry
+ * Version: 1.0
+ */
+
+
+ .elementor img {
+ 	height: auto !important;
+ }
+
+ .tagcloud a {
+ 	text-transform: capitalize !important;
+    color: #1b1b1b !important;
+    padding: 9px 12px !important;
+    display: inline-block !important;
+    border: 1px solid #1b1b1b !important;
+    border-radius: 15px !important;
+    margin: 10px 10px 10px 0px !important;
+    transition: 0.4s all !important;
+ }
+
+
+ .elementor a:hover {
+ 	background-color: #F5A700 !important;
+ }
